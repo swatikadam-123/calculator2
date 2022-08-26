@@ -1,2 +1,4 @@
 welcome github
-
+num 1=10
+num 2=20
+sum =num1+num2
